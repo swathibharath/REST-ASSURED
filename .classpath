@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-all-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-all-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-core-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-core-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-generator-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-generator-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-generator-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-integration-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-integration-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-integration-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-library-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/hamcrest-1.3/hamcrest-1.3/hamcrest-library-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/rest-assured-common-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/REST ASSURED JAR FILES/xml-path-4.3.3.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/bhara/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
